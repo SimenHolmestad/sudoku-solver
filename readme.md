@@ -1,0 +1,1 @@
+Dette skal bli et program som skal kunne løse sudoku-spill ved å bruke brute-force
