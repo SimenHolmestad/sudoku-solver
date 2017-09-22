@@ -13,7 +13,7 @@ def check_if_valid_row (rekke):
             return False
     return True
 
-def check_if_row_is_valid (rekke):
+def check_if_row_is_valid (rekke, board):
     #sjekk om rekken inneholder flere av samme tall
     testrekke = rekke[:]
     for i in range(len(testrekke)):
