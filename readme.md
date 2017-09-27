@@ -1,4 +1,4 @@
-#Sudoku solver
+# Sudoku solver
 
 Dette programmet løser 9*9-sudokubrett ved hjelp av brute-force. Den sjekker alle mulighetene helt til den finner et brett som passer ved tallene som er lagt inn. Hvis brettet du putter inn har flere mulige løsninger vil programmet finne en av dem. (Alle vanlige sudokubrett har kun én løsning)
 
